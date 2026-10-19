@@ -80,7 +80,7 @@ cargo run
 
 A imagem abaixo mostra a saída gerada pela execução do programa:
 
-![Saída do código](produtor_consumidor/saida_codigo.png)
+![Saída do código](saida_codigo.png)
 
 A ordem exata das mensagens pode variar entre execuções, pois as threads são escalonadas pelo sistema operacional. Entretanto, o buffer nunca ultrapassa a capacidade máxima de 5 elementos.
 
